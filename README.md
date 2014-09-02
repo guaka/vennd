@@ -1,3 +1,10 @@
+Basically, the code is aimed at allowing users to purchase zooz tokens and sell them for bitcoins
+it builds on an existing counterparty vending machine project called **`vennd`**.
+
+We have modified `vennd` for our needs (such as a dynamic exchange rate, paying out dividends, etc.) and also adapted it to MasterCoin.
+
+
+
 Vennd
 =====
 
